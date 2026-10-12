@@ -28,11 +28,13 @@
 
 | الشخصية | الوصف |
 |---|---|
-| **نورة** | امرأة خليجية في أوائل الثلاثينات، وجه بيضاوي ناعم، عينان بنيتان دافئتان، ابتسامة هادئة. ترتدي عباءة بلون الكريم وحجابًا بيج فاتحًا. |
-| **مريم** | صديقتها، في أوائل الثلاثينات، بشرة حنطية فاتحة، عينان داكنتان لامعتان، غمازة خفيفة عند الابتسام. ترتدي عباءة عاجية بتطريز ناعم على الأكمام وحجابًا وردي هادئًا. |
-| **العائلة** (المشهد 6) | جدّ بلحية بيضاء وغترة بيضاء، طفلة في السابعة بفستان أصفر فاتح، طفل في التاسعة بثوب أبيض. |
+| **نورة** | فتاة خليجية في السادسة عشرة، وجه بيضاوي ناعم، عينان بنيتان دافئتان، ابتسامة هادئة. شعرها بني داكن طويل مربوط بذيل حصان منخفض. ترتدي كنزة صوفية خفيفة بلون الكريم وبنطالًا واسعًا بلون البيج، وحقيبة ظهر صغيرة بلون البيج، وفي معصمها سوار صداقة مضفور بخيوط بيضاء ووردية. |
+| **مريم** | صديقتها المقرّبة، في السادسة عشرة، بشرة حنطية فاتحة، عينان داكنتان لامعتان، غمازة خفيفة عند الابتسام. شعرها أسود مموّج بطول الكتفين. ترتدي قميصًا عاجيًا وكارديغان بلون وردي هادئ وتنورة طويلة بيج، وفي معصمها سوار صداقة مطابق لسوار نورة. |
+| **العائلة** (المشهد 6) | والدة نورة بفستان طويل أنيق بلون زيتوني فاتح وشعر مرفوع وابتسامة دافئة، والد مريم بثوب أبيض وغترة بيضاء، جدّ بلحية بيضاء، أخت صغيرة في السابعة بفستان أصفر فاتح، أخ صغير في التاسعة بثوب أبيض. |
 
-**الموقع:** حديقة هادئة بممرات حجرية فاتحة، أشجار ياسمين ونخيل، مقعد خشبي، ثم فناء بيت عائلي بفوانيس معلّقة.
+**الرمز البصري:** سوارا الصداقة المتطابقان؛ يظهران في الصورة على الهاتف، ثم في لقطة الأيدي المتشابكة، فيربطان القصة ببعضها.
+
+**الموقع:** حديقة عامة هادئة قرب المدرسة، ممرات حجرية فاتحة، أشجار ياسمين ونخيل، مقعد خشبي، ثم فناء بيت عائلي بفوانيس معلّقة.
 
 ---
 
@@ -46,21 +48,21 @@
 - **النص على الشاشة:** كلُّ صباحٍ… بدايةٌ جديدة
 
 ### المشهد 2 — لحظة صفاء | 0:05 – 0:11
-- **الصورة:** نورة تجلس على مقعد خشبي في الحديقة، تمسك فنجان قهوة عربية، تنظر إلى صورة قديمة على هاتفها تجمعها بمريم وهما تضحكان. ترتسم على وجهها ابتسامة حنونة، ثم ترفع رأسها وكأنها اتخذت قرارًا جميلًا.
+- **الصورة:** نورة تجلس على مقعد خشبي في الحديقة وحقيبتها بجانبها، تنظر إلى صورة على هاتفها من رحلة مدرسية تجمعها بمريم وهما تضحكان وترفعان سواري الصداقة. ترتسم على وجهها ابتسامة حنونة، تلمس السوار في معصمها، ثم ترفع رأسها وكأنها اتخذت قرارًا جميلًا.
 - **الكاميرا:** حركة دولي بطيئة من الجانب نحو وجهها، ثم لقطة قريبة (Close-up) للابتسامة.
 - **الإضاءة:** ضوء صباحي دافئ يتسلّل بين أوراق الشجر ويصنع بقعًا ذهبية على وجهها.
 - **التعليق الصوتي:** «فلنفتح له قلوبنا… بصفاءٍ ومحبّة.»
 - **النص على الشاشة:** القلبُ الصافي… أجملُ بداية
 
 ### المشهد 3 — اللقاء | 0:11 – 0:17
-- **الصورة:** مريم تسير في الممر الحجري حاملةً باقة صغيرة من الياسمين. تلتقي عيناها بعيني نورة من بعيد، تتوقف لحظة، وتبتسم بخجل جميل.
+- **الصورة:** مريم تسير في الممر الحجري وحقيبتها على كتفها، حاملةً باقة صغيرة من الياسمين. تلتقي عيناها بعيني نورة من بعيد، تتوقف لحظة، وتبتسم بخجل جميل.
 - **الكاميرا:** لقطة تتبّع جانبية (Tracking shot) لمريم، ثم تحويل تركيز (Rack focus) من الياسمين في يدها إلى وجه نورة في الخلفية.
 - **الإضاءة:** ضوء جانبي ذهبي، ظلال ناعمة.
 - **التعليق الصوتي:** «التسامحُ خطوةٌ صغيرة… تقرّب المسافات.»
 
 ### المشهد 4 — الأيدي المتصافحة | 0:17 – 0:23
 - **الصورة:** تقف نورة وتتقدّم. ابتسامتان صادقتان متقابلتان. تمدّ مريم باقة الياسمين، فتضع نورة يدها فوق يدها، وتتشابك الأيدي بدفء.
-- **الكاميرا:** لقطات قريبة جدًا بالحركة البطيئة (60%): العينان، الابتسامة، ثم لقطة ماكرو للأيدي والياسمين.
+- **الكاميرا:** لقطات قريبة جدًا بالحركة البطيئة (60%): العينان، الابتسامة، ثم لقطة ماكرو للأيدي والياسمين وسوارا الصداقة المتطابقان متجاوران.
 - **الإضاءة:** ضوء خلفي ذهبي يحيط بالأيدي بهالة دافئة.
 - **التعليق الصوتي:** «ابتسامةٌ صادقة… ويدٌ ممدودةٌ بالمحبّة.»
 - **النص على الشاشة:** يدٌ ممدودة… تفتحُ ألفَ باب
@@ -72,7 +74,7 @@
 - **التعليق الصوتي:** «فيغمرُ الدفءُ القلبين… وتسكنُ الروحُ في سلام.»
 
 ### المشهد 6 — اللقاء العائلي | 0:29 – 0:36
-- **الصورة:** وقت الغروب في فناء بيت مزيّن بفوانيس. الصديقتان مع العائلة حول سفرة بسيطة: قهوة وتمر. الطفلة تقدّم تمرة للطفل فيبتسم، والجدّ يضع يده على كتف حفيده مبتسمًا، والجميع يضحك بهدوء.
+- **الصورة:** وقت الغروب في فناء بيت مزيّن بفوانيس. الصديقتان مع العائلتين حول سفرة بسيطة: قهوة وتمر وكعك. الأخت الصغيرة تقدّم تمرة لأخيها فيبتسم، ووالدة نورة تصبّ القهوة لوالد مريم، والجدّ يضع يده على كتف حفيده مبتسمًا، والصديقتان تتبادلان الضحك والهمس، والجميع في جوّ من الألفة.
 - **الكاميرا:** لقطة رافعة (Crane up) بطيئة ترتفع من مستوى السفرة لتكشف المشهد كاملًا.
 - **الإضاءة:** ضوء غروب ذهبي ممزوج بإضاءة الفوانيس الدافئة.
 - **التعليق الصوتي:** «وحين نعفو… يتّسعُ البيت، وتكبرُ المحبّةُ بيننا.»
@@ -148,11 +150,11 @@
 بالتسامح تزهر القلوب 🤍🌿
 
 ابتسامةٌ صادقة، ويدٌ ممدودة، وقلبٌ صافٍ…
-لحظاتٌ بسيطة تقرّب المسافات وتملأ الحياة دفئًا وسكينة.
+لحظاتٌ بسيطة تقرّب المسافات، وتجعل الصداقة أجمل وأبقى.
 
-شاركه مع شخصٍ تحبّه، واجعل اليوم بدايةً جميلة ✨
+أرسله لصديقك المقرّب، واجعلا اليوم بدايةً جميلة ✨
 
-#التسامح #المحبة #العفو #صفاء_القلوب #السلام #السكينة #الرحمة #قلوب_صافية #ريلز #إلهام #قيم_جميلة #كلام_جميل #forgiveness #kindness #love #peace #reels
+#التسامح #المحبة #العفو #الصداقة #صديقتي #صفاء_القلوب #السلام #السكينة #قلوب_صافية #جيل_المحبة #ريلز #إلهام #قيم_جميلة #forgiveness #friendship #bestfriends #kindness #teens #reels
 ```
 
 ---
@@ -165,8 +167,8 @@
 ### وصف الشخصيات (يُلصق في كل برومبت)
 
 ```
-NOURA: Gulf Arab woman, early 30s, soft oval face, warm brown eyes, calm gentle smile, cream-colored abaya, light beige hijab neatly wrapped.
-MARYAM: Gulf Arab woman, early 30s, light olive skin, bright dark eyes, small dimple when smiling, ivory abaya with delicate embroidered sleeves, dusty-rose hijab.
+NOURA: Gulf Arab teenage girl, 16 years old, youthful soft oval face, warm brown eyes, calm gentle smile, long dark brown hair in a low ponytail, cream light-knit sweater, wide beige trousers, small beige backpack, braided white-and-pink friendship bracelet on her wrist.
+MARYAM: Gulf Arab teenage girl, 16 years old, youthful face, light olive skin, bright dark eyes, small dimple when smiling, shoulder-length wavy black hair, ivory blouse with a dusty-rose cardigan, long beige skirt, matching braided white-and-pink friendship bracelet on her wrist.
 ```
 
 ### الأسلوب الموحّد (يُلصق في نهاية كل برومبت)
@@ -191,19 +193,19 @@ Golden sunrise rising behind palm trees in a tranquil garden, light morning mist
 
 ### المشهد 2 — لحظة صفاء (6 ث)
 ```
-[NOURA] sits on a wooden garden bench holding a small Arabic coffee cup, looking at an old photo on her phone of herself and [MARYAM] laughing together. A tender, warm smile spreads across her face, then she lifts her head with a hopeful look. Slow side dolly-in ending on a close-up of her smile. Dappled golden morning light through leaves on her face.
+[NOURA] sits on a wooden bench in a quiet park near her school, backpack beside her, looking at a school-trip photo on her phone of herself and [MARYAM] laughing and holding up their matching friendship bracelets. A tender, warm smile spreads across her face, she gently touches the bracelet on her wrist, then lifts her head with a hopeful look. Slow side dolly-in ending on a close-up of her smile. Dappled golden morning light through leaves on her face.
 [STYLE]
 ```
 
 ### المشهد 3 — اللقاء (6 ث)
 ```
-[MARYAM] walks along a light stone garden path holding a small bouquet of white jasmine. She notices [NOURA] in the distance, pauses softly and gives a shy, gentle smile. Side tracking shot following Maryam, then rack focus from the jasmine in her hands to Noura standing up in the background. Soft golden side light, gentle shadows.
+[MARYAM] walks along a light stone park path, backpack on one shoulder, holding a small bouquet of white jasmine. She notices [NOURA] in the distance, pauses softly and gives a shy, gentle smile. Side tracking shot following Maryam, then rack focus from the jasmine in her hands to Noura standing up in the background. Soft golden side light, gentle shadows.
 [STYLE]
 ```
 
 ### المشهد 4 — الأيدي المتصافحة (6 ث)
 ```
-[NOURA] and [MARYAM] face each other in the garden, exchanging sincere warm smiles. Maryam offers the jasmine bouquet; Noura places her hand over Maryam's hand and their hands clasp warmly. Slow motion 60%, sequence of extreme close-ups: eyes, smiles, then macro shot of the clasped hands holding jasmine. Golden backlight creating a warm glow around the hands.
+[NOURA] and [MARYAM] face each other in the garden, exchanging sincere warm smiles. Maryam offers the jasmine bouquet; Noura places her hand over Maryam's hand and their hands clasp warmly. Slow motion 60%, sequence of extreme close-ups: eyes, smiles, then macro shot of the clasped hands holding jasmine, their matching friendship bracelets side by side. Golden backlight creating a warm glow around the hands.
 [STYLE]
 ```
 
@@ -215,7 +217,7 @@ Golden sunrise rising behind palm trees in a tranquil garden, light morning mist
 
 ### المشهد 6 — اللقاء العائلي (7 ث)
 ```
-Sunset in a traditional Gulf house courtyard decorated with warm hanging lanterns. [NOURA] and [MARYAM] sit with their families around a low table with Arabic coffee and dates. A 7-year-old girl in a light yellow dress offers a date to a 9-year-old boy in a white thobe, who smiles. A grandfather with a white beard and white ghutra places his hand on the boy's shoulder, smiling. Everyone laughs softly together. Slow crane-up shot rising from table level to reveal the whole warm scene. Golden sunset light mixed with lantern glow.
+Sunset in a traditional Gulf house courtyard decorated with warm hanging lanterns. [NOURA] and [MARYAM] sit together with both their families around a low table with Arabic coffee, dates and pastries. Noura's mother in an elegant long light-olive dress with her hair pinned up pours coffee for Maryam's father in a white thobe and ghutra. A 7-year-old girl in a light yellow dress offers a date to her 9-year-old brother in a white thobe, who smiles. A grandfather with a white beard and white ghutra places his hand on the boy's shoulder, smiling. The two teenage friends laugh and whisper together. Everyone shares a warm, joyful moment. Slow crane-up shot rising from table level to reveal the whole warm scene. Golden sunset light mixed with lantern glow.
 [STYLE]
 ```
 
