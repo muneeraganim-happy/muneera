@@ -28,9 +28,9 @@
 
 | الشخصية | الوصف |
 |---|---|
-| **نورة** | فتاة خليجية في السادسة عشرة، وجه بيضاوي ناعم، عينان بنيتان دافئتان، ابتسامة هادئة. شعرها بني داكن طويل مربوط بذيل حصان منخفض. ترتدي كنزة صوفية خفيفة بلون الكريم وبنطالًا واسعًا بلون البيج، وحقيبة ظهر صغيرة بلون البيج، وفي معصمها سوار صداقة مضفور بخيوط بيضاء ووردية. |
-| **مريم** | صديقتها المقرّبة، في السادسة عشرة، بشرة حنطية فاتحة، عينان داكنتان لامعتان، غمازة خفيفة عند الابتسام. شعرها أسود مموّج بطول الكتفين. ترتدي قميصًا عاجيًا وكارديغان بلون وردي هادئ وتنورة طويلة بيج، وفي معصمها سوار صداقة مطابق لسوار نورة. |
-| **العائلة** (المشهد 6) | والدة نورة بفستان طويل أنيق بلون زيتوني فاتح وشعر مرفوع وابتسامة دافئة، والد مريم بثوب أبيض وغترة بيضاء، جدّ بلحية بيضاء، أخت صغيرة في السابعة بفستان أصفر فاتح، أخ صغير في التاسعة بثوب أبيض. |
+| **الصديقة الأولى** | فتاة خليجية في السادسة عشرة، وجه بيضاوي ناعم، عينان بنيتان دافئتان، ابتسامة هادئة. شعرها بني داكن طويل مربوط بذيل حصان منخفض. ترتدي كنزة صوفية خفيفة بلون الكريم وبنطالًا واسعًا بلون البيج، وحقيبة ظهر صغيرة بلون البيج، وفي معصمها سوار صداقة مضفور بخيوط بيضاء ووردية. |
+| **الصديقة الثانية** | صديقتها المقرّبة، في السادسة عشرة، بشرة حنطية فاتحة، عينان داكنتان لامعتان، غمازة خفيفة عند الابتسام. شعرها أسود مموّج بطول الكتفين. ترتدي قميصًا عاجيًا وكارديغان بلون وردي هادئ وتنورة طويلة بيج، وفي معصمها سوار صداقة مطابق لسوار صديقتها. |
+| **العائلة** (المشهد 6) | والدة الصديقة الأولى بفستان طويل أنيق بلون زيتوني فاتح وشعر مرفوع وابتسامة دافئة، والد الصديقة الثانية بثوب أبيض وغترة بيضاء، جدّ بلحية بيضاء، أخت صغيرة في السابعة بفستان أصفر فاتح، أخ صغير في التاسعة بثوب أبيض. |
 
 **الرمز البصري:** سوارا الصداقة المتطابقان؛ يظهران في الصورة على الهاتف، ثم في لقطة الأيدي المتشابكة، فيربطان القصة ببعضها.
 
@@ -48,20 +48,20 @@
 - **النص على الشاشة:** كلُّ صباحٍ… بدايةٌ جديدة
 
 ### المشهد 2 — لحظة صفاء | 0:05 – 0:11
-- **الصورة:** نورة تجلس على مقعد خشبي في الحديقة وحقيبتها بجانبها، تنظر إلى صورة على هاتفها من رحلة مدرسية تجمعها بمريم وهما تضحكان وترفعان سواري الصداقة. ترتسم على وجهها ابتسامة حنونة، تلمس السوار في معصمها، ثم ترفع رأسها وكأنها اتخذت قرارًا جميلًا.
+- **الصورة:** الصديقة الأولى تجلس على مقعد خشبي في الحديقة وحقيبتها بجانبها، تنظر إلى صورة على هاتفها من رحلة مدرسية تجمعها بصديقتها وهما تضحكان وترفعان سواري الصداقة. ترتسم على وجهها ابتسامة حنونة، تلمس السوار في معصمها، ثم ترفع رأسها وكأنها اتخذت قرارًا جميلًا.
 - **الكاميرا:** حركة دولي بطيئة من الجانب نحو وجهها، ثم لقطة قريبة (Close-up) للابتسامة.
 - **الإضاءة:** ضوء صباحي دافئ يتسلّل بين أوراق الشجر ويصنع بقعًا ذهبية على وجهها.
 - **التعليق الصوتي:** «فلنفتح له قلوبنا… بصفاءٍ ومحبّة.»
 - **النص على الشاشة:** القلبُ الصافي… أجملُ بداية
 
 ### المشهد 3 — اللقاء | 0:11 – 0:17
-- **الصورة:** مريم تسير في الممر الحجري وحقيبتها على كتفها، حاملةً باقة صغيرة من الياسمين. تلتقي عيناها بعيني نورة من بعيد، تتوقف لحظة، وتبتسم بخجل جميل.
-- **الكاميرا:** لقطة تتبّع جانبية (Tracking shot) لمريم، ثم تحويل تركيز (Rack focus) من الياسمين في يدها إلى وجه نورة في الخلفية.
+- **الصورة:** الصديقة الثانية تسير في الممر الحجري وحقيبتها على كتفها، حاملةً باقة صغيرة من الياسمين. تلتقي عيناها بعيني صديقتها من بعيد، تتوقف لحظة، وتبتسم بخجل جميل.
+- **الكاميرا:** لقطة تتبّع جانبية (Tracking shot) للصديقة الثانية، ثم تحويل تركيز (Rack focus) من الياسمين في يدها إلى وجه الصديقة الأولى في الخلفية.
 - **الإضاءة:** ضوء جانبي ذهبي، ظلال ناعمة.
 - **التعليق الصوتي:** «التسامحُ خطوةٌ صغيرة… تقرّب المسافات.»
 
 ### المشهد 4 — الأيدي المتصافحة | 0:17 – 0:23
-- **الصورة:** تقف نورة وتتقدّم. ابتسامتان صادقتان متقابلتان. تمدّ مريم باقة الياسمين، فتضع نورة يدها فوق يدها، وتتشابك الأيدي بدفء.
+- **الصورة:** تقف الصديقة الأولى وتتقدّم. ابتسامتان صادقتان متقابلتان. تمدّ الصديقة الثانية باقة الياسمين، فتضع الصديقة الأولى يدها فوق يدها، وتتشابك الأيدي بدفء.
 - **الكاميرا:** لقطات قريبة جدًا بالحركة البطيئة (60%): العينان، الابتسامة، ثم لقطة ماكرو للأيدي والياسمين وسوارا الصداقة المتطابقان متجاوران.
 - **الإضاءة:** ضوء خلفي ذهبي يحيط بالأيدي بهالة دافئة.
 - **التعليق الصوتي:** «ابتسامةٌ صادقة… ويدٌ ممدودةٌ بالمحبّة.»
@@ -74,14 +74,14 @@
 - **التعليق الصوتي:** «فيغمرُ الدفءُ القلبين… وتسكنُ الروحُ في سلام.»
 
 ### المشهد 6 — اللقاء العائلي | 0:29 – 0:36
-- **الصورة:** وقت الغروب في فناء بيت مزيّن بفوانيس. الصديقتان مع العائلتين حول سفرة بسيطة: قهوة وتمر وكعك. الأخت الصغيرة تقدّم تمرة لأخيها فيبتسم، ووالدة نورة تصبّ القهوة لوالد مريم، والجدّ يضع يده على كتف حفيده مبتسمًا، والصديقتان تتبادلان الضحك والهمس، والجميع في جوّ من الألفة.
+- **الصورة:** وقت الغروب في فناء بيت مزيّن بفوانيس. الصديقتان مع العائلتين حول سفرة بسيطة: قهوة وتمر وكعك. الأخت الصغيرة تقدّم تمرة لأخيها فيبتسم، ووالدة الصديقة الأولى تصبّ القهوة لوالد الصديقة الثانية، والجدّ يضع يده على كتف حفيده مبتسمًا، والصديقتان تتبادلان الضحك والهمس، والجميع في جوّ من الألفة.
 - **الكاميرا:** لقطة رافعة (Crane up) بطيئة ترتفع من مستوى السفرة لتكشف المشهد كاملًا.
 - **الإضاءة:** ضوء غروب ذهبي ممزوج بإضاءة الفوانيس الدافئة.
 - **التعليق الصوتي:** «وحين نعفو… يتّسعُ البيت، وتكبرُ المحبّةُ بيننا.»
 - **النص على الشاشة:** العفو… قوّةُ الروح ونُبلُ الأخلاق
 
 ### المشهد 7 — الخاتمة | 0:36 – 0:42
-- **الصورة:** نورة ومريم تسيران جنبًا إلى جنب في الحديقة نحو الشمس الذهبية، تتحدثان وتبتسمان. تتحوّل الصورة تدريجيًا إلى لقطة قريبة لغصن ياسمين يتفتّح.
+- **الصورة:** الصديقتان تسيران جنبًا إلى جنب في الحديقة نحو الشمس الذهبية، تتحدثان وتبتسمان. تتحوّل الصورة تدريجيًا إلى لقطة قريبة لغصن ياسمين يتفتّح.
 - **الكاميرا:** لقطة واسعة من الخلف، رافعة ترتفع ببطء، ثم انتقال ذوبان (Dissolve) إلى الياسمين.
 - **الإضاءة:** الساعة الذهبية، توهّج ناعم دافئ.
 - **التعليق الصوتي:** «بالتسامحِ تزهرُ القلوب… وبالمحبّةِ تصبحُ الحياةُ أجمل.»
@@ -167,8 +167,8 @@
 ### وصف الشخصيات (يُلصق في كل برومبت)
 
 ```
-NOURA: Gulf Arab teenage girl, 16 years old, youthful soft oval face, warm brown eyes, calm gentle smile, long dark brown hair in a low ponytail, cream light-knit sweater, wide beige trousers, small beige backpack, braided white-and-pink friendship bracelet on her wrist.
-MARYAM: Gulf Arab teenage girl, 16 years old, youthful face, light olive skin, bright dark eyes, small dimple when smiling, shoulder-length wavy black hair, ivory blouse with a dusty-rose cardigan, long beige skirt, matching braided white-and-pink friendship bracelet on her wrist.
+GIRL A: Gulf Arab teenage girl, 16 years old, youthful soft oval face, warm brown eyes, calm gentle smile, long dark brown hair in a low ponytail, cream light-knit sweater, wide beige trousers, small beige backpack, braided white-and-pink friendship bracelet on her wrist.
+GIRL B: Gulf Arab teenage girl, 16 years old, youthful face, light olive skin, bright dark eyes, small dimple when smiling, shoulder-length wavy black hair, ivory blouse with a dusty-rose cardigan, long beige skirt, matching braided white-and-pink friendship bracelet on her wrist.
 ```
 
 ### الأسلوب الموحّد (يُلصق في نهاية كل برومبت)
@@ -193,37 +193,37 @@ Golden sunrise rising behind palm trees in a tranquil garden, light morning mist
 
 ### المشهد 2 — لحظة صفاء (6 ث)
 ```
-[NOURA] sits on a wooden bench in a quiet park near her school, backpack beside her, looking at a school-trip photo on her phone of herself and [MARYAM] laughing and holding up their matching friendship bracelets. A tender, warm smile spreads across her face, she gently touches the bracelet on her wrist, then lifts her head with a hopeful look. Slow side dolly-in ending on a close-up of her smile. Dappled golden morning light through leaves on her face.
+[GIRL A] sits on a wooden bench in a quiet park near her school, backpack beside her, looking at a school-trip photo on her phone of herself and her best friend [GIRL B] laughing and holding up their matching friendship bracelets. A tender, warm smile spreads across her face, she gently touches the bracelet on her wrist, then lifts her head with a hopeful look. Slow side dolly-in ending on a close-up of her smile. Dappled golden morning light through leaves on her face.
 [STYLE]
 ```
 
 ### المشهد 3 — اللقاء (6 ث)
 ```
-[MARYAM] walks along a light stone park path, backpack on one shoulder, holding a small bouquet of white jasmine. She notices [NOURA] in the distance, pauses softly and gives a shy, gentle smile. Side tracking shot following Maryam, then rack focus from the jasmine in her hands to Noura standing up in the background. Soft golden side light, gentle shadows.
+[GIRL B] walks along a light stone park path, backpack on one shoulder, holding a small bouquet of white jasmine. She notices [GIRL A] in the distance, pauses softly and gives a shy, gentle smile. Side tracking shot following Girl B, then rack focus from the jasmine in her hands to Girl A standing up in the background. Soft golden side light, gentle shadows.
 [STYLE]
 ```
 
 ### المشهد 4 — الأيدي المتصافحة (6 ث)
 ```
-[NOURA] and [MARYAM] face each other in the garden, exchanging sincere warm smiles. Maryam offers the jasmine bouquet; Noura places her hand over Maryam's hand and their hands clasp warmly. Slow motion 60%, sequence of extreme close-ups: eyes, smiles, then macro shot of the clasped hands holding jasmine, their matching friendship bracelets side by side. Golden backlight creating a warm glow around the hands.
+[GIRL A] and [GIRL B] face each other in the garden, exchanging sincere warm smiles. Girl B offers the jasmine bouquet; Girl A places her hand over Girl B's hand and their hands clasp warmly. Slow motion 60%, sequence of extreme close-ups: eyes, smiles, then macro shot of the clasped hands holding jasmine, their matching friendship bracelets side by side. Golden backlight creating a warm glow around the hands.
 [STYLE]
 ```
 
 ### المشهد 5 — العناق (6 ث)
 ```
-[NOURA] and [MARYAM] share a warm, joyful hug in the garden, softly laughing, white jasmine petals floating gently around them in a light breeze. Slow 180-degree orbit camera around them, ending in a medium shot with the sun behind them. Strong warm backlight, soft glow, golden tones.
+[GIRL A] and [GIRL B] share a warm, joyful hug in the garden, softly laughing, white jasmine petals floating gently around them in a light breeze. Slow 180-degree orbit camera around them, ending in a medium shot with the sun behind them. Strong warm backlight, soft glow, golden tones.
 [STYLE]
 ```
 
 ### المشهد 6 — اللقاء العائلي (7 ث)
 ```
-Sunset in a traditional Gulf house courtyard decorated with warm hanging lanterns. [NOURA] and [MARYAM] sit together with both their families around a low table with Arabic coffee, dates and pastries. Noura's mother in an elegant long light-olive dress with her hair pinned up pours coffee for Maryam's father in a white thobe and ghutra. A 7-year-old girl in a light yellow dress offers a date to her 9-year-old brother in a white thobe, who smiles. A grandfather with a white beard and white ghutra places his hand on the boy's shoulder, smiling. The two teenage friends laugh and whisper together. Everyone shares a warm, joyful moment. Slow crane-up shot rising from table level to reveal the whole warm scene. Golden sunset light mixed with lantern glow.
+Sunset in a traditional Gulf house courtyard decorated with warm hanging lanterns. [GIRL A] and [GIRL B] sit together with both their families around a low table with Arabic coffee, dates and pastries. Girl A's mother in an elegant long light-olive dress with her hair pinned up pours coffee for Girl B's father in a white thobe and ghutra. A 7-year-old girl in a light yellow dress offers a date to her 9-year-old brother in a white thobe, who smiles. A grandfather with a white beard and white ghutra places his hand on the boy's shoulder, smiling. The two teenage friends laugh and whisper together. Everyone shares a warm, joyful moment. Slow crane-up shot rising from table level to reveal the whole warm scene. Golden sunset light mixed with lantern glow.
 [STYLE]
 ```
 
 ### المشهد 7 — الخاتمة (6 ث)
 ```
-[NOURA] and [MARYAM] walk side by side along the garden path toward the golden sun, chatting and smiling. Wide shot from behind, slow crane rising, then a soft dissolve into a close-up of a white jasmine branch gently blooming. Golden hour glow, dreamy soft light.
+[GIRL A] and [GIRL B] walk side by side along the garden path toward the golden sun, chatting and smiling. Wide shot from behind, slow crane rising, then a soft dissolve into a close-up of a white jasmine branch gently blooming. Golden hour glow, dreamy soft light.
 [STYLE]
 ```
 

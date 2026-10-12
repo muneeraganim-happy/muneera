@@ -34,8 +34,8 @@ const P = {
   ink: '#4A2A22'
 };
 const PEOPLE = {
-  noura:   { skin: '#EDC5A2', hair: '#4B2C20', hairType: 'ponytail', top: '#F5E8D6', topTrim: '#E6D3B8', bottom: '#CFB28E', bottomType: 'trousers', shoe: '#8A6A55', bracelet: true },
-  maryam:  { skin: '#D9A47E', hair: '#241816', hairType: 'wavy', top: '#E2A09C', inner: '#FBF3E6', bottom: '#DCC7A6', bottomType: 'skirt', shoe: '#7A5A4A', bracelet: true },
+  friendA:  { skin: '#EDC5A2', hair: '#4B2C20', hairType: 'ponytail', top: '#F5E8D6', topTrim: '#E6D3B8', bottom: '#CFB28E', bottomType: 'trousers', shoe: '#8A6A55', bracelet: true },
+  friendB: { skin: '#D9A47E', hair: '#241816', hairType: 'wavy', top: '#E2A09C', inner: '#FBF3E6', bottom: '#DCC7A6', bottomType: 'skirt', shoe: '#7A5A4A', bracelet: true },
   mother:  { skin: '#E6BB98', hair: '#3A2219', hairType: 'bun', top: '#A9B184', bottom: '#A9B184', bottomType: 'skirt', shoe: '#6E5444', necklace: true },
   father:  { skin: '#D7A27C', hair: '#2A1D18', hairType: 'ghutra', top: '#FBFAF6', bottom: '#FBFAF6', bottomType: 'thobe', shoe: '#7A5A4A', beard: '#2E211B' },
   grandpa: { skin: '#D9A986', hair: '#EEE9E2', hairType: 'ghutra', top: '#FBFAF6', bottom: '#FBFAF6', bottomType: 'thobe', shoe: '#7A5A4A', beard: '#F4F1EC' },
@@ -281,7 +281,7 @@ function person(g, x, y, h, p, o = {}) {
     which.forEach(side => {
       const s = side === 'L' ? -1 : 1;
       const [ex, ey, hx, hy] = armPose(o, side);
-      drawArm(g, p, s * 12.5, -75, ex, ey, hx, hy, p.top, p.bracelet && (side === 'R' ? p === PEOPLE.noura : p === PEOPLE.maryam) || (p.bracelet && o.braceletBoth));
+      drawArm(g, p, s * 12.5, -75, ex, ey, hx, hy, p.top, p.bracelet && (side === 'R' ? p === PEOPLE.friendA : p === PEOPLE.friendB) || (p.bracelet && o.braceletBoth));
     });
     g.restore();
   };
@@ -359,7 +359,7 @@ function sceneBench(g, t, d) {
   // backpack
   g.fillStyle = P.beige; rrect(g, 730, 1110, 100, 120, 26); g.fill(); g.fillStyle = '#C7AE8A'; rrect(g, 745, 1160, 70, 40, 10); g.fill();
   const lookUp = ease((t - 3.2) / 0.8);
-  person(g, 520, 1420, 640, PEOPLE.noura, { sit: true, pose: 'phone', eyes: lookUp > 0.5 ? 'smile' : 'down', smile: 0.45 + 0.5 * lookUp, tilt: -0.05 * lookUp });
+  person(g, 520, 1420, 640, PEOPLE.friendA, { sit: true, pose: 'phone', eyes: lookUp > 0.5 ? 'smile' : 'down', smile: 0.45 + 0.5 * lookUp, tilt: -0.05 * lookUp });
   // memory polaroid floating up from phone
   const m = ease((t - 0.8) / 1.6) * (1 - ease((t - 4.6) / 1.0));
   if (m > 0) {
@@ -369,8 +369,8 @@ function sceneBench(g, t, d) {
     rrect(g, -150, -130, 300, 220, 6); g.fillStyle = '#FBE3C4'; g.fill();
     g.save(); rrect(g, -150, -130, 300, 220, 6); g.clip();
     glow(g, 0, -40, 240, 'rgba(255,214,150,0.9)');
-    person(g, -50, 150, 260, PEOPLE.noura, { arms: { R: [16, -78, 20, -96] }, braceletBoth: true });
-    person(g, 52, 150, 260, PEOPLE.maryam, { arms: { L: [-16, -78, -20, -96] } });
+    person(g, -50, 150, 260, PEOPLE.friendA, { arms: { R: [16, -78, 20, -96] }, braceletBoth: true });
+    person(g, 52, 150, 260, PEOPLE.friendB, { arms: { L: [-16, -78, -20, -96] } });
     g.restore();
     heart(g, 118, 118, 24, '#E79AA4');
     g.restore();
@@ -388,8 +388,8 @@ function pathScene(g, t, d) {
   const wk = clamp(t / 3.6);
   const mx = lerp(1080, 720, ease(wk));
   const walking = wk < 1;
-  person(g, 350, 1700, 820, PEOPLE.noura, { eyes: t > 3.2 ? 'smile' : 'open', smile: t > 3.2 ? 0.9 : 0.5, tilt: t > 3.2 ? 0.04 : 0 });
-  person(g, mx, 1700, 800, PEOPLE.maryam, { pose: 'flowers', walk: walking ? t * 5.2 : null, eyes: t > 2.8 ? 'smile' : 'open', smile: t > 2.8 ? 0.85 : 0.5, tilt: t > 3.4 ? -0.05 : 0 });
+  person(g, 350, 1700, 820, PEOPLE.friendA, { eyes: t > 3.2 ? 'smile' : 'open', smile: t > 3.2 ? 0.9 : 0.5, tilt: t > 3.2 ? 0.04 : 0 });
+  person(g, mx, 1700, 800, PEOPLE.friendB, { pose: 'flowers', walk: walking ? t * 5.2 : null, eyes: t > 2.8 ? 'smile' : 'open', smile: t > 2.8 ? 0.85 : 0.5, tilt: t > 3.4 ? -0.05 : 0 });
   if (t > 3.6) [0, 1, 2].forEach(i => { const a = ease((t - 3.6 - i * 0.35) / 0.6) * (1 - ease((t - 5.4) / 0.6)); heart(g, 535 + (i - 1) * 50, 880 - i * 40 - (t - 3.6) * 30, 30 - i * 5, '#EFA0A8', a * 0.85); });
   dapple(g, t, 7, 41, 0.1);
 }
@@ -410,11 +410,11 @@ function sceneHands(g, t, d) {
   g.translate(540, 960); g.scale(zoom, zoom); g.translate(-540, -960);
   glow(g, 540, 960, 520 * (0.4 + 0.6 * k), 'rgba(255,240,200,1)', 0.9);
   const lx = lerp(-250, 470, k), rx = lerp(1330, 610, k);
-  hand(g, lx, 990, -0.12, PEOPLE.noura.top, PEOPLE.noura.skin, true, false);
+  hand(g, lx, 990, -0.12, PEOPLE.friendA.top, PEOPLE.friendA.skin, true, false);
   bouquet(g, 545, 905, 15 * (0.6 + 0.4 * k));
-  hand(g, rx, 1000, Math.PI + 0.12, PEOPLE.maryam.top, PEOPLE.maryam.skin, true, true);
+  hand(g, rx, 1000, Math.PI + 0.12, PEOPLE.friendB.top, PEOPLE.friendB.skin, true, true);
   // fingers wrapping over
-  if (k > 0.9) { const a = ease((k - 0.9) / 0.1); g.save(); g.globalAlpha = a; g.fillStyle = PEOPLE.maryam.skin;
+  if (k > 0.9) { const a = ease((k - 0.9) / 0.1); g.save(); g.globalAlpha = a; g.fillStyle = PEOPLE.friendB.skin;
     for (let i = 0; i < 4; i++) { g.beginPath(); g.ellipse(520 - i * 6, 925 + i * 32, 46, 18, -0.15, 0, 7); g.fill(); } g.restore(); }
   petals(g, t, 10, 77, [0, 0, W, H], 0.7);
 }
@@ -439,10 +439,10 @@ function sceneHug(g, t, d) {
   const lean = ease(t / 1.2);
   const nO = { tilt: 0.12 * lean, defer: ['R'], eyes: 'smile', smile: 0.95, arms: { R: [22, -70, 38, -76] } };
   const mO = { tilt: -0.12 * lean, defer: ['L'], eyes: 'smile', smile: 0.95, arms: { L: [-22, -70, -38, -76] } };
-  person(g, nx, 1600, hgt, PEOPLE.noura, nO);
-  person(g, mx, 1600, hgt, PEOPLE.maryam, mO);
-  person(g, nx, 1600, hgt, PEOPLE.noura, { ...nO, layer: 'arms' });
-  person(g, mx, 1600, hgt, PEOPLE.maryam, { ...mO, layer: 'arms' });
+  person(g, nx, 1600, hgt, PEOPLE.friendA, nO);
+  person(g, mx, 1600, hgt, PEOPLE.friendB, mO);
+  person(g, nx, 1600, hgt, PEOPLE.friendA, { ...nO, layer: 'arms' });
+  person(g, mx, 1600, hgt, PEOPLE.friendB, { ...mO, layer: 'arms' });
   petals(g, t, 22, 5, [-100, -200, W + 200, H + 200], 0.9);
   for (let i = 0; i < 5; i++) { const ft = (t * 0.35 + rnd(i)) % 1; heart(g, 300 + rnd(i + 2) * 480, 700 - ft * 380, 26 + 14 * rnd(i), '#F2A4AC', Math.sin(ft * Math.PI) * 0.7); }
 }
@@ -477,8 +477,8 @@ function sceneFamily(g, t, d) {
   person(g, 140, 1520, 470, PEOPLE.boy, { sit: true, pose: 'table', eyes: offer > 0.8 ? 'smile' : 'open', smile: 0.5 + 0.45 * offer });
   person(g, 330, 1520, 440, PEOPLE.girl7, { sit: true, eyes: 'smile', smile: 0.9, arms: { L: [-18, -64, lerp(-14, -26, offer), -66] } });
   if (offer > 0) { const u = 4.4, hx = 330 + lerp(-14, -26, offer) * u, hy = 1520 + (20 - 66) * u; g.fillStyle = '#7A3E26'; g.beginPath(); g.ellipse(hx, hy - 10, 9, 14, 0.3, 0, 7); g.fill(); }
-  person(g, 650, 1530, 540, PEOPLE.noura, { sit: true, pose: 'table', eyes: 'smile', smile: 0.95, tilt: 0.1 * Math.sin(t * 1.4) * 0.5 + 0.05 });
-  person(g, 900, 1530, 530, PEOPLE.maryam, { sit: true, pose: 'table', eyes: 'smile', smile: 0.95, tilt: -0.08 });
+  person(g, 650, 1530, 540, PEOPLE.friendA, { sit: true, pose: 'table', eyes: 'smile', smile: 0.95, tilt: 0.1 * Math.sin(t * 1.4) * 0.5 + 0.05 });
+  person(g, 900, 1530, 530, PEOPLE.friendB, { sit: true, pose: 'table', eyes: 'smile', smile: 0.95, tilt: -0.08 });
   // low table with coffee and dates
   g.fillStyle = '#8E5E40'; rrect(g, -40, 1480, W + 80, 70, 20); g.fill();
   g.fillStyle = '#7A4F35'; g.fillRect(-40, 1540, W + 80, 400);
@@ -506,8 +506,8 @@ function sceneWalkAway(g, t, d) {
   const k = t / d;
   const s = lerp(1, 0.72, k), fy = lerp(1820, 1640, k);
   const hgt = 760 * s, u = hgt / 100;
-  person(g, 540 - 14 * u, fy, hgt, PEOPLE.noura, { back: true, walk: t * 4.6, arms: { R: [15, -60, 13, -48] } });
-  person(g, 540 + 14 * u, fy, hgt, PEOPLE.maryam, { back: true, walk: t * 4.6 + Math.PI, arms: { L: [-15, -60, -13, -48] } });
+  person(g, 540 - 14 * u, fy, hgt, PEOPLE.friendA, { back: true, walk: t * 4.6, arms: { R: [15, -60, 13, -48] } });
+  person(g, 540 + 14 * u, fy, hgt, PEOPLE.friendB, { back: true, walk: t * 4.6 + Math.PI, arms: { L: [-15, -60, -13, -48] } });
   petals(g, t, 8, 33, [0, 0, W, H], 0.6);
 }
 function sceneBloom(g, t, d) {
